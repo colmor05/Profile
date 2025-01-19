@@ -9,6 +9,6 @@ Colin Brunson
 Information Technology & Cybersecurity
 
 # **Projects**
-Pong In Python (For Fun)
-Snake In C++ (For Fun)
-Songs On Guitar
+- Pong In Python (For Fun)
+- Snake In C++ (For Fun)
+- Songs On Guitar
